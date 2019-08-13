@@ -1,0 +1,27 @@
+{
+  "name": "dopos-backend",
+  "version": "1.0.0",
+  "description": "NodeJS \r ExpressJS\r MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoftDeMagazin/dopos-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.6.9",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "bugs": {
+    "url": "https://github.com/SoftDeMagazin/dopos-backend/issues"
+  },
+  "homepage": "https://github.com/SoftDeMagazin/dopos-backend#readme"
+}
